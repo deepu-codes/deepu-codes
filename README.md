@@ -1,4 +1,6 @@
 # 👋 Hey, I'm Deepu
+Self-taught coder on a mission to master Linux, low-level code & Python automation 🚀
+
 
 🔧 Linux & C++|Python Developer  
 🧠 Exploring low-level code, system tools, and automation  
