@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Deepu
 
-🔧 Linux & C++ Developer  
+🔧 Linux & C++|Python Developer  
 🧠 Exploring low-level code, system tools, and automation  
 🚀 Building in public & sharing the journey
 
