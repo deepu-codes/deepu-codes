@@ -1,4 +1,19 @@
-## Hi there 👋
+# 👋 Hey, I'm Deepu
+
+🔧 Linux & C++ Developer  
+🧠 Exploring low-level code, system tools, and automation  
+🚀 Building in public & sharing the journey
+
+## 🛠 Projects
+Soon you'll see CLI tools, config scripts, and more here...
+
+## 🌐 Connect
+- 🐧 GitHub: [github.com/deepu-codes](https://github.com/deepu-codes)
+- 🐦 Twitter/X: [@deepucodes](https://x.com/deepucodes)
+
+---
+
+> 🧠 “Code what you love. Share what you build. Grow in public.”
 
 <!--
 **deepu-codes/deepu-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
