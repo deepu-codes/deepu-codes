@@ -5,7 +5,10 @@ Self-taught coder on a mission to master Linux, low-level code & Python automati
 🔧 Linux & C++|Python Developer  
 🧠 Exploring low-level code, system tools, and automation  
 🚀 Building in public & sharing the journey
-<img width="1536" height="1024" alt="Deepu Codes - Developer   Linux Enthusiast" src="https://github.com/user-attachments/assets/22956698-c772-4efd-aa60-22d16f0d6290" />
+
+
+<img width="1536" height="1024" alt="Neon Tech Branding Banner" src="https://github.com/user-attachments/assets/d2ebce6d-e937-47d8-bdc1-c19cf998e627" />
+
 
 ## 🛠 Projects
 Soon you'll see CLI tools, config scripts, and more here...
